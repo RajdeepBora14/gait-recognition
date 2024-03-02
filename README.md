@@ -17,3 +17,6 @@ of 86.6%, indicating the effectiveness of the proposed approach.
 The implications of the study include the refinement and optimization
 of gait recognition models, with potential applications
 in surveillance, person identification, and other areas.
+
+
+The dataset for this project was the CASIA-B dataset, available publicly. Following is the link to the dataset's webpage: http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp
